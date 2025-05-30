@@ -37,26 +37,26 @@ orbital-analysis-cubesat/
 └── requirements.txt      # Python environment dependencies
 
 ## Getting Started
-	1.	Clone this repository
-	2.	Install required Python packages: pip install -r requirements.txt
-	3.	Run notebooks in /notebooks to simulate and visualize orbital behavior
+1. Clone this repository
+2. Install required Python packages: pip install -r requirements.txt
+3. Run notebooks in /notebooks to simulate and visualize orbital behavior
 
 ## Sample Research Questions
-	•	How does orbital altitude affect the expected mission lifetime of a CubeSat?
-	•	How often does a satellite in polar orbit pass over a specific city?
-	•	What are the trade-offs between orbital inclination and global coverage?
+- How does orbital altitude affect the expected mission lifetime of a CubeSat?
+- How often does a satellite in polar orbit pass over a specific city?
+- What are the trade-offs between orbital inclination and global coverage?
 
 ## Skills Demonstrated
-	•	Orbital mechanics and astrodynamics
-	•	Physics of atmospheric drag
-	•	Data analysis and storytelling with Python
-	•	Aerospace simulation workflows
+- Orbital mechanics and astrodynamics
+- Physics of atmospheric drag
+- Data analysis and storytelling with Python
+- Aerospace simulation workflows
 
 ## Future Work
-	•	Real-time ingestion of NORAD TLEs
-	•	Thermal/radiation environment modeling
-	•	LEO constellation performance comparison
-	•	Satellite-to-satellite visibility simulation
+- Real-time ingestion of NORAD TLEs
+- Thermal/radiation environment modeling
+- LEO constellation performance comparison
+- Satellite-to-satellite visibility simulation
 
 ⸻
 
