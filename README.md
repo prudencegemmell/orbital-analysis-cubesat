@@ -28,12 +28,12 @@ Small satellite missions must carefully balance orbital lifespan, ground visibil
 - **Jupyter Notebook**: interactive data exploration
 
 ## File Structure
-orbital-analysis-cubesat/
-├── data/                  # Orbital elements and simulated outputs
-├── notebooks/            # Jupyter Notebooks for exploration
-├── scripts/              # Python modules for parsing and analysis
-├── outputs/              # Graphs, coverage maps, decay charts
-├── README.md             # Project overview and instructions
+orbital-analysis-cubesat/  
+├── data/                  # Orbital elements and simulated outputs  
+├── notebooks/            # Jupyter Notebooks for exploration  
+├── scripts/              # Python modules for parsing and analysis  
+├── outputs/              # Graphs, coverage maps, decay charts  
+├── README.md             # Project overview and instructions  
 └── requirements.txt      # Python environment dependencies
 
 ## Getting Started
