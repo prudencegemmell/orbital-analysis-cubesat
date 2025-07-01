@@ -29,7 +29,7 @@ Small satellite missions must carefully balance orbital lifespan, ground visibil
 
 ## File Structure
 orbital-analysis-cubesat/  
-├── data/                 # Orbital elements and simulated outputs  
+├── cubesat_catalog/      # Satellite metadata & mission types 
 ├── notebooks/            # Jupyter Notebooks for exploration  
 ├── scripts/              # Python modules for parsing and analysis  
 ├── outputs/              # Graphs, coverage maps, decay charts  
